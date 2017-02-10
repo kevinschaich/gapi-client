@@ -1,6 +1,6 @@
 {
   "name": "gapi-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A very thin Node wrapper for Google's client-side javascript V3 API",
   "main": "index.js",
   "scripts": {
