@@ -1,0 +1,25 @@
+{
+  "name": "gapi-client",
+  "version": "0.0.1",
+  "description": "A very thin Node wrapper for Google's client-side javascript V3 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinschaich/gapi-client.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "google",
+    "gapi"
+  ],
+  "author": "Kevin Schaich <schaich.kevin@gmail.com> (http://schaich.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinschaich/gapi-client/issues"
+  },
+  "homepage": "https://github.com/kevinschaich/gapi-client#readme"
+}
