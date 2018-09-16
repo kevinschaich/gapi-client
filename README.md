@@ -32,4 +32,4 @@ function initClient() {
 
 ## License
 
-MIT license.
+MIT © [Kevin Schaich](https://kevinschaich.io)
